@@ -1,16 +1,17 @@
-### Hi there 👋
+### Greetings!~
+I'm `PythonTryHard`, a pursuer of a Master of Science and Engineering degree in Food Technology. 
 
-<!--
-**PythonTryHard/PythonTryHard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### But that doesn't relate to programming at all!
+Yea. I just like to write code, that's all. I fell in love with Chemistry before falling for Programming. Am I two-timing? Maybe. No. Maybe.
 
-Here are some ideas to get you started:
+To be honest: Colorful liquids makes me go "✨ Uwah~ ✨".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Did you just "Uwah~"?
+I'm what the internet would classify as "a weeb". Can't help it.
+
+### Sure... How can I contact you?
+Coming soon.
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PythonTryHard&count_private=true&line_height=20&show_icons=true&hide_border=true&theme=onedark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonTryHard&layout=compact&card_width=250&hide_border=true&theme=onedark"/>
